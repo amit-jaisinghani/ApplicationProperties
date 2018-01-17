@@ -43,7 +43,7 @@
                     </execution>
                 </executions>
                 <configuration>
-                    <finalName>utils.ApplicationProperties</finalName>
+                    <finalName>ApplicationProperties</finalName>
                 </configuration>
             </plugin>
         </plugins>
