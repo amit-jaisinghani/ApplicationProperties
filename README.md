@@ -1,4 +1,4 @@
-# ApplicationProperties
+# utils.ApplicationProperties
 A simple way to load all properties required by a java project. This project supports maven. So, you can install this project add dependency given below to use it.
 
 \<groupId>utilities\</groupId> <br>

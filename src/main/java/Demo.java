@@ -1,3 +1,5 @@
+import utils.ApplicationProperties;
+
 import java.util.HashMap;
 
 public class Demo {

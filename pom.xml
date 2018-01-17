@@ -26,7 +26,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>ApplicationProperties</mainClass>
+                            <mainClass>utils.ApplicationProperties</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
@@ -43,7 +43,7 @@
                     </execution>
                 </executions>
                 <configuration>
-                    <finalName>ApplicationProperties</finalName>
+                    <finalName>utils.ApplicationProperties</finalName>
                 </configuration>
             </plugin>
         </plugins>
